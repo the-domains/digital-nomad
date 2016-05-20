@@ -1,0 +1,14 @@
+layout_spectrum: 0.9352807
+typography_spectrum: 0.6513509
+color:
+  saturation: 0.8480366
+  lightness: 0.5895288
+  brandStrength: 0.6676099
+  rhythmicContrast: 0.512511
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Digital Nomad
