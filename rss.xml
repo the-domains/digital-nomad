@@ -4,14 +4,14 @@
         <description><![CDATA[Digital Nomad]]></description>
         <link>https://thegrid.ai/digital-nomad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 14:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2016 14:26:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-nomad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello World</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85f85b7-b76d-48d9-af7e-502fd91f61d0.jpg">]]></description>
             <link>https://thegrid.ai/digital-nomad/hello-world/index.html</link>
             <guid isPermaLink="false">dac021c3-365f-4908-aa17-d716ae0036c5</guid>
-            <pubDate>Tue, 24 May 2016 14:23:48 GMT</pubDate>
+            <pubDate>Tue, 24 May 2016 14:24:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
