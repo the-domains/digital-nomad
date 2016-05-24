@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Digital Nomad]]></title>
         <description><![CDATA[Digital Nomad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/digital-nomad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 14:19:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 14:23:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/digital-nomad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World</p>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/digital-nomad/hello-world/index.html</link>
             <guid isPermaLink="false">dac021c3-365f-4908-aa17-d716ae0036c5</guid>
-            <pubDate>Tue, 24 May 2016 14:19:25 GMT</pubDate>
+            <pubDate>Tue, 24 May 2016 14:23:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
