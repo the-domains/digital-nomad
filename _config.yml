@@ -1,14 +1,29 @@
+name: Digital Nomad
+favicon: null
 layout_spectrum: 0.9352807
 typography_spectrum: 0.6513509
+title: Digital Nomad
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8480366
-  lightness: 0.5895288
-  brandStrength: 0.6676099
-  rhythmicContrast: 0.512511
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-name: Digital Nomad
+  brandStrength: 0.6676099
+  lightness: 0.5895288
+  saturation: 0.8480366
+  rhythmicContrast: 0.512511
+purpose: []
